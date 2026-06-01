@@ -1,4 +1,4 @@
-# SDOS — Sovereign Decision & Orchestration System
+# SDOS — A Governed Execution Framework for Autonomous AI Agents
 
 Runtime governance for autonomous AI agents. SDOS enforces policy at the point of action — before an agent executes, not after.
 
@@ -66,10 +66,11 @@ These are open problems being actively investigated:
 | Risk tiers | R1 (routine), R2 (elevated), R3 (critical / human-required) |
 | Audit | Immutable, append-only decision log |
 | Memory governance | Vector and structured memory under policy enforcement |
+| Standards | Cataloged in the NIST OLIR program (Ref 212 / AI RMF 1.0, Ref 215 / CSF 2.0, Ref 217 / SP 800-53 Rev 5.2.0) |
 
 ## Patent Notice
 
-SDOS is the subject of USPTO Provisional Patent Application No. 64/029,300, filed April 4, 2026, covering runtime governance architecture for autonomous AI agent systems. Additional provisional filings are in preparation. This repository contains no implementation code or patentable details — it serves as a public-facing description of the system's purpose and research direction.
+SDOS is the subject of multiple USPTO provisional patent applications (the first, No. 64/029,300, filed April 4, 2026) covering runtime governance architecture for autonomous AI agent systems. This repository contains no implementation code or patentable details — it serves as a public-facing description of the system's purpose and research direction.
 
 ## Contact
 
