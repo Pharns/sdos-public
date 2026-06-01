@@ -70,7 +70,7 @@ These are open problems being actively investigated:
 
 ## Patent Notice
 
-SDOS is the subject of multiple USPTO provisional patent applications (the first, No. 64/029,300, filed April 4, 2026) covering runtime governance architecture for autonomous AI agent systems. This repository contains no implementation code or patentable details — it serves as a public-facing description of the system's purpose and research direction.
+SDOS is the subject of five USPTO provisional patent applications (Nos. 64/029,300, 64/049,300, 64/067,427, 64/069,200, and 64/076,620), the first filed April 4, 2026, covering runtime governance architecture for autonomous AI agent systems. This repository contains no implementation code or patentable details — it serves as a public-facing description of the system's purpose and research direction.
 
 ## Contact
 
