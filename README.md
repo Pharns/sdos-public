@@ -66,7 +66,7 @@ These are open problems being actively investigated:
 | Risk tiers | R1 (routine), R2 (elevated), R3 (critical / human-required) |
 | Audit | Immutable, append-only decision log |
 | Memory governance | Vector and structured memory under policy enforcement |
-| Standards | Cataloged in the NIST OLIR program (Ref 212 / AI RMF 1.0, Ref 215 / CSF 2.0, Ref 217 / SP 800-53 Rev 5.2.0) |
+| Standards | Cataloged in the NIST OLIR program as three Final Informative References (Ref 212 / AI RMF 1.0, Ref 215 / CSF 2.0, Ref 217 / SP 800-53 Rev 5.2.0). Catalog inclusion is an informative reference, not a NIST endorsement. |
 
 ## Patent Notice
 
