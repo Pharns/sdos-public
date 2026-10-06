@@ -1,5 +1,7 @@
 # SDOS — A Governed Execution Framework for Autonomous AI Agents
 
+> **Built and operated by Pharns Genece (AAM Cyber).** In production since early 2026. Framework alignment library: 17 frameworks, 300+ control mappings ([DOI 10.5281/zenodo.22787186](https://doi.org/10.5281/zenodo.22787186)). Doctrine: [The Five Laws of AI Governance](https://github.com/Pharns/The-Five-Laws-of-AI-Governance) · Portfolio: [portfolio.pharns.com](https://portfolio.pharns.com)
+
 Runtime governance for autonomous AI agents. SDOS enforces policy at the point of action — before an agent executes, not after.
 
 ## Overview
